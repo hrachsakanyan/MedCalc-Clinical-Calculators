@@ -3,7 +3,7 @@
 A single-page web app with eight bedside clinical calculators. Pick a calculator, enter the
 values, and get the result together with a plain-language interpretation.
 
-**[▶ Live demo](https://YOUR-USERNAME.github.io/medcalc/)** ← replace with your GitHub Pages URL
+🔗 [View Live Website](https://hrachsakanyan.github.io/MedCalc-Clinical-Calculators/)
 
 > ## ⚠️ Educational use only
 > MedCalc is a **learning and portfolio project**. It is **not a medical device**, has not been
