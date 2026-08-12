@@ -96,7 +96,7 @@ Field types: `number` (with `min`, `max`, `step`, optional `optional: true` and 
 `select` (with `options[]`), and `checkbox` (with `options[]`, each optionally carrying `points`).
 Badge levels: `normal`, `info`, `caution`, `warning`, `danger`.
 
-## Running locally
+## Running locally 
 
 No build step — double-click `index.html` and it works. To serve it over HTTP instead
 (closer to how GitHub Pages will run it), use whichever you have installed:
