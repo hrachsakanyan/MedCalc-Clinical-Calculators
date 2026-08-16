@@ -113,7 +113,7 @@ python -m http.server 8000  # Python
 3. Wait for the build, then open `https://YOUR-USERNAME.github.io/medcalc/`.
 4. Update the live-demo link at the top of this README.
 
-## Sources
+## Sources 
 
 - WHO — BMI classification for adults
 - Mosteller RD. *Simplified calculation of body-surface area.* N Engl J Med. 1987
