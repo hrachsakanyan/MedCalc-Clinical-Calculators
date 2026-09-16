@@ -1,4 +1,4 @@
-# 🏥 MedCalc — Clinical Calculators 
+# 🏥 MedCalc — Clinical Calculators
 
 A single-page web app with eight bedside clinical calculators. Pick a calculator, enter the
 values, and get the result together with a plain-language interpretation.
