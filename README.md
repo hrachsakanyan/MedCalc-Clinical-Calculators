@@ -13,7 +13,7 @@ values, and get the result together with a plain-language interpretation.
 
 ---
 
-## Calculators 
+## Calculators
 
 | Calculator | Formula / source | Typical use |
 |---|---|---|
